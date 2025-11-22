@@ -63,10 +63,10 @@ It contains information about flight times, delays, airports, airlines, and dela
 
 ![Alt text](Photos/delaysreasonfortop10.png)
 
-### Delay Reasons for Top 10 Planes
+### Chart for min and max of delay minutes
 
 ![Alt text](Photos/pychart_min_max.png)
-pychart_min_max
+
 ---
 
 ## Contributing
