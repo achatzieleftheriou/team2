@@ -1,29 +1,67 @@
-# Delay of airports/planes and the reason behind it
+# Delay of flights and the reason behind it
 
-
-
-One-line description of your project. Explain what it does and why it exists.
+Retrieve a dataset from kaggle regarding flight delays. 
+Make various transformations and create plots 
 
 ---
 
 ## Table of Contents
+- [Dataset](#Dataset)
 - [Features](#features)
-- [Contributing](#contributing)
 - [Plots](#Plots)
-
+- [Contributing](#contributing)
 ---
 
+## Dataset
+The dataset used in this project is available on Kaggle:  
+[Flight Delays Dataset](https://www.kaggle.com/datasets/umeradnaan/flight-delays-dataset)
+
+It contains information about flight times, delays, airports, airlines, and delay reasons.
+
 ## Features
-- Load a dataset from kaggle : https://www.kaggle.com/datasets/umeradnaan/flight-delays-dataset
-- Make transformations in the dataset. Remove null/correct the datetimes/create more fields according to the datetimes
-- Create various plots for many aggregations
+- Load and explore the dataset. 
+- Clean the data: handle null values, correct datetimes, and create new datetime-related features. 
+- Perform various transformations and aggregations to understand delays.  
+- Generate multiple insightful plots to visualize patterns in delays.
+
 ---
 ## Plots
 
-![Alt text](path/to/image.jpg)
+###  Distance
 
+![Alt text](photos/distance_box_plot.png)
 
+### Delay in Minutes
 
+![Alt text](photos/delay_minutes_box_plot.png)
+
+### Average Delay per Origin Airport
+
+![Alt text](photos/averageDelayPerOriginAirport.png)
+
+### Counts of Delay Reasons
+
+![Alt text](photos/countsOfDelayReasons.png)
+
+### Most Frequent Delay Reason
+
+![Alt text](photos/mostFrequentDelayReason.png)
+
+### Average Delay Minutes by Airline
+
+![Alt text](photos/avg_delay_minutes_by_airline.png)
+
+### Average Distance per Airline
+
+![Alt text](photos/Avg_distance_per_airline.png)
+
+### Delays per Plane
+
+![Alt text](photos/delaysperplane.png)
+
+### Delay Reasons for Top 10 Planes
+
+![Alt text](photos/delaysreasonfortop10.png)
 
 ---
 
@@ -33,4 +71,3 @@ One-line description of your project. Explain what it does and why it exists.
 - Thanasis Chatzieleftheriou
 
 ---
-## Plots
