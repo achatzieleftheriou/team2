@@ -29,39 +29,39 @@ It contains information about flight times, delays, airports, airlines, and dela
 
 ###  Distance
 
-![Alt text](photos/distance_box_plot.png)
+![Alt text](Photos/distance_box_plot.png)
 
 ### Delay in Minutes
 
-![Alt text](photos/delay_minutes_box_plot.png)
+![Alt text](Photos/delay_minutes_box_plot.png)
 
 ### Average Delay per Origin Airport
 
-![Alt text](photos/averageDelayPerOriginAirport.png)
+![Alt text](Photos/averageDelayPerOriginAirport.png)
 
 ### Counts of Delay Reasons
 
-![Alt text](photos/countsOfDelayReasons.png)
+![Alt text](Photos/countsOfDelayReasons.png)
 
 ### Most Frequent Delay Reason
 
-![Alt text](photos/mostFrequentDelayReason.png)
+![Alt text](Photos/mostFrequentDelayReason.png)
 
 ### Average Delay Minutes by Airline
 
-![Alt text](photos/avg_delay_minutes_by_airline.png)
+![Alt text](Photos/avg_delay_minutes_by_airline.png)
 
 ### Average Distance per Airline
 
-![Alt text](photos/Avg_distance_per_airline.png)
+![Alt text](Photos/Avg_distance_per_airline.png)
 
 ### Delays per Plane
 
-![Alt text](photos/delaysperplane.png)
+![Alt text](Photos/delaysperplane.png)
 
 ### Delay Reasons for Top 10 Planes
 
-![Alt text](photos/delaysreasonfortop10.png)
+![Alt text](Photos/delaysreasonfortop10.png)
 
 ---
 
